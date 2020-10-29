@@ -31,7 +31,7 @@ Un autre paragraphe
 
 *** Typos ***
 *******************
-*italique
+*italique*
 
 *** Listes ***
 *******************
