@@ -61,4 +61,4 @@ Un autre paragraphe
 
 *** Tableau ***
 *********************
-| element 1 | element 2 | element 3 |
+| Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |
