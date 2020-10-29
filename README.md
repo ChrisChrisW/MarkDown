@@ -28,6 +28,11 @@ Un autre paragraphe
 <h4>Title 4</h4>
 <p>Mon paragraphe qui explique quelque chose<br>Un autre paragraphe</p>
 
+
+*** Typos ***
+*******************
+*italique
+
 *** Listes ***
 *******************
 * liste 1
