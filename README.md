@@ -31,9 +31,9 @@ Un autre paragraphe
 
 *** Typos ***
 *******************
-*italique méthode étoile* ou _italique méthode tiret du 8_
-**gras méthode étoile** ou __gras méthode tiret du 8__
-[Lien](https://www.youtube.com/watch?v=6hikjzymd0c "Grafikat.fr")
+*italique méthode étoile* ou _italique méthode tiret du 8_  
+**gras méthode étoile** ou __gras méthode tiret du 8__  
+[Lien](https://www.youtube.com/watch?v=6hikjzymd0c "Grafikart.fr")
 
 *** Listes ***
 *******************
@@ -45,3 +45,7 @@ Un autre paragraphe
 + liste 2
 1. liste 1
 2. liste 2
+
+*** Images ***
+*******************
+![Logo de Grafikat](http://www.grafikart.fr/img/logo.png)
