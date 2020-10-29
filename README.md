@@ -12,3 +12,9 @@ H2 méthode 2
 #### h4
 ##### h5
 ###### h6
+
+Mon paragraphe qui explique quelque chose
+Un autre paragraphe
+
+* liste 1
+* liste 2
