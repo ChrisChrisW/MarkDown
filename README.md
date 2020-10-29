@@ -1,3 +1,6 @@
+*** Code Markdown ***
+*********************
+
 # H1 méthode 1
 
 H1 méthode 2
